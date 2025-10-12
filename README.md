@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBja2Fhc212enFhZW1rM3o2OHM0bGJzcnk5MTcxNWRhNHh0ZWxkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iMm2j/giphy.gif" alt="Coding Banner" width="800"/>
-</p>
-
 <div align="center">
   <h1>
     <a href="https://github.com/skullxcode">
@@ -58,7 +54,7 @@
   I love open source! Here are my Hacktoberfest achievements.
 </p>
 <p align="center">
-  <a href="https://www.holopin.io/@skullxcode">
+  [![An image of @skullxcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skullxcode)](https://holopin.io/@skullxcode)
     <img src="https://holopin.me/holopin-badge-force-dark.svg" alt="@skullxcode's Holopin board">
   </a>
   <br>
