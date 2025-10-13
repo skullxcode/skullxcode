@@ -82,7 +82,7 @@ I'm a developer with a deep passion for problem-solving and building efficient s
 ### 📅 My Contribution Calendar
 
 <p align="center">
-  <img src="metrics.svg" alt="Metrics" />
+  <img src="github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
