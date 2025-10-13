@@ -29,7 +29,6 @@ I'm a developer with a deep passion for problem-solving and building efficient s
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -83,7 +82,7 @@ I'm a developer with a deep passion for problem-solving and building efficient s
 ### 📅 My Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF00/skullxcode" alt="skullxcode's Contribution Chart"/>
+  <img src="metrics.svg" alt="Metrics" />
 </p>
 
 ---
@@ -103,24 +102,3 @@ I'm a developer with a deep passion for problem-solving and building efficient s
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
   </a>
 </p>
-
-[python-badge]: https://skillicons.dev/icons?i=python
-[python-link]: https://www.python.org/
-
-[html-badge]: https://skillicons.dev/icons?i=html
-[html-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
-
-[css-badge]: https://skillicons.dev/icons?i=css
-[css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
-
-[git-badge]: https://skillicons.dev/icons?i=git
-[git-link]: https://git-scm.com/
-
-[github-badge]: https://skillicons.dev/icons?i=github
-[github-link]: https://github.com/
-
-[vscode-badge]: https://skillicons.dev/icons?i=vscode
-[vscode-link]: https://code.visualstudio.com/
-
-[vercel-badge]: https://skillicons.dev/icons?i=vercel
-[vercel-link]: https://vercel.com/
