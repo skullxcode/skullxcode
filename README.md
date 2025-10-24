@@ -16,13 +16,17 @@
   <a href="mailto:ujjwaljain146@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
+</p>
+
 ---
 
 ### 🚀 About Me
 
 I'm a developer with a deep passion for problem-solving and building efficient solutions. My primary tool is **Python**, and I spend my time honing my skills in **Competitive Programming** and contributing to the **Open Source** community. I love turning complex problems into clean, elegant code and I'm always looking for a new challenge.
 
-- 🔭 I’m currently building **My-Portfolio**, a personal website to showcase my skills and projects.
+- 🔭 I’m currently building **The-Forge**, a new design system, and maintaining **My-Portfolio**.
 - 🌱 I’m currently mastering **advanced algorithms and data structures in Python**.
 - 👯 I’m looking to collaborate on **Python-based open source projects**, especially those involving algorithms or data processing.
 - 💬 Ask me about **Python, Data Structures, Algorithms, and Git workflows**.
@@ -41,8 +45,9 @@ I'm a developer with a deep passion for problem-solving and building efficient s
 
 ### 🏆 Featured Projects
 
-| Project             | Description                                                        | Tech Stack                                                                                                                              |
-| ------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Project             | Description                                                       | Tech Stack                                                                                                                                                                                                      |
+| ------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎨 The-Forge** | A design system I am currently building.                          | ![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-007BFF?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                            |
 | **🌐 My-Portfolio** | My personal corner of the internet to showcase my work and skills. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 ---
@@ -67,7 +72,7 @@ I'm a developer with a deep passion for problem-solving and building efficient s
 ### 🎃 Hacktoberfest Participation
 
 <p align="center">
-  I'm a proud participant in Hacktoberfest and a passionate open-source contributor.
+  I'm a proud Super Contributor in Hacktoberfest and a passionate open-source contributor.
 </p>
 <p align="center">
   <a href="https://holopin.io/@skullxcode">
@@ -75,6 +80,7 @@ I'm a developer with a deep passion for problem-solving and building efficient s
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange.svg?style=for-the-badge" alt="Hacktoberfest 2025">
+  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-blueviolet.svg?style=for-the-badge" alt="Hacktoberfest 2025 Supercontributor">
 </p>
 
 ---
