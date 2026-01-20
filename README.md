@@ -59,14 +59,18 @@ I'm a developer with a deep passion for problem-solving and building efficient s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skullxcode&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="skullxcode's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skullxcode&theme=tokyonight&hide_border=true" alt="skullxcode's GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skullxcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="skullxcode's GitHub Trophies"/>
-</p>
 
+</div>
+
+<div align="center">
+
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-445f7d?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/skullx)
+
+![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=skullx&theme=tokyonight)
+
+</div>
 ---
 
 ### 🎃 Hacktoberfest Participation
