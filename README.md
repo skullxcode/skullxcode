@@ -26,8 +26,8 @@
 
 I'm a developer with a deep passion for problem-solving and building efficient solutions. My primary tool is **Python**, and I spend my time honing my skills in **Competitive Programming** and contributing to the **Open Source** community. I love turning complex problems into clean, elegant code and I'm always looking for a new challenge.
 
-- 🔭 I’m currently building **The-Forge**, a new design system, and maintaining **My-Portfolio**.
-- 🌱 I’m currently mastering **advanced algorithms and data structures in Python**.
+- 🔭 I’m currently building **DevTools Pro**, a tool for helping Devs and Competitive Programmers, and maintaining **My-Portfolio** and **The-Forge**.
+- 🌱 I’m currently mastering **advanced algorithms and data structures in Python and C++**.
 - 👯 I’m looking to collaborate on **Python-based open source projects**, especially those involving algorithms or data processing.
 - 💬 Ask me about **Python, Data Structures, Algorithms, and Git workflows**.
 
